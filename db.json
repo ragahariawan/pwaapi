@@ -1,0 +1,24 @@
+{
+"products": [
+[{"id":1,"name":"European shelduck","category":"Pink"},
+{"id":2,"name":"Caracara (unidentified)","category":"Puce"},
+{"id":3,"name":"Four-horned antelope","category":"Teal"},
+{"id":4,"name":"Owl, australian masked","category":"Mauv"},
+{"id":5,"name":"Egyptian viper","category":"Pink"},
+{"id":6,"name":"Butterfly (unidentified)","category":"Aquamarine"},
+{"id":7,"name":"Heron, little","category":"Puce"},
+{"id":8,"name":"Greater kudu","category":"Goldenrod"},
+{"id":9,"name":"Owl, white-browed","category":"Green"},
+{"id":10,"name":"Common long-nosed armadillo","category":"Fuscia"},
+{"id":11,"name":"Galapagos hawk","category":"Violet"},
+{"id":12,"name":"Cape starling","category":"Maroon"},
+{"id":13,"name":"Hartebeest, red","category":"Teal"},
+{"id":14,"name":"Common wallaroo","category":"Crimson"},
+{"id":15,"name":"Tasmanian devil","category":"Pink"},
+{"id":16,"name":"Fox, savanna","category":"Mauv"},
+{"id":17,"name":"Ringtail","category":"Puce"},
+{"id":18,"name":"Mexican boa","category":"Fuscia"},
+{"id":19,"name":"Spurfowl, yellow-necked","category":"Aquamarine"},
+{"id":20,"name":"Ringtail cat","category":"Indigo"}]
+]
+}
